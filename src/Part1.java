@@ -6,6 +6,7 @@ public class Part1 {
 		System.out.println("Part1 1st statement by P User");
 		System.out.println("Part1 1st statement by Q User");
 		System.out.println("Part2 1st statement by P User");
+		System.out.println("Part2 1st statement by Q User");
 	}
 
 }
